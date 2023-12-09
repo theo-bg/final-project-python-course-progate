@@ -1,6 +1,6 @@
 # Aplikasi ATM
 
-# Fitur: 
+Fitur: 
 # 1. Periksa PIN
 # 2. Ganti PIN
 # 3. Cek Saldo
